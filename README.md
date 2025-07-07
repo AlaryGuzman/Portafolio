@@ -1,11 +1,11 @@
 # Portafolio Personal - Alary Guzmán
 
-## 📌 Descripción
+## Descripción
 Este proyecto es un portafolio web personal desarrollado con HTML, CSS y JavaScript utilizando una plantilla basada en Bootstrap. El propósito es mostrar información personal, proyectos y habilidades de manera visual e interactiva.
 
 ---
 
-## 🧭 Estructura del sitio
+## Estructura del sitio
 
 - **Inicio**: Presentación principal con imagen destacada.
 - **Sobre mí**: Sección con información personal.
@@ -15,10 +15,10 @@ Este proyecto es un portafolio web personal desarrollado con HTML, CSS y JavaScr
 
 ---
 
-## 🧱 Tecnologías Usadas
+## Tecnologías Usadas
 
 - HTML5 / CSS3
-- Bootstrap 3 (incluido localmente)
+- Bootstrap 4 
 - JavaScript / jQuery
 - Plugins como prettyPhoto, Owl Carousel
 
@@ -28,18 +28,18 @@ Este proyecto es un portafolio web personal desarrollado con HTML, CSS y JavaScr
 
 | Página Principal | Portafolio | Contacto |
 |------------------|------------|----------|
-| ![home](uploads/Captura%20de%20pantalla%202025-07-05%20210211.png) | ![portafolio](uploads/Captura%20de%20pantalla%202025-07-05%20210611.png) | ![contacto](uploads/Captura%20de%20pantalla%202025-06-02%20182359.png) |
+| ![home](capturas/home.png) | ![portafolio](capturas/portafolio.png) | ![contacto](capturas/contacto.png) |
 
 ---
 
-## 🌐 GitHub Pages
+##  GitHub Pages
 
 Puedes ver el sitio publicado aquí:  
-➡️ [https://TU_USUARIO.github.io/miportafolio](https://TU_USUARIO.github.io/miportafolio)
+➡ [https://alaryguzman.github.io/Portafolio/](https://alaryguzman.github.io/Portafolio/)
 
 ---
 
 ## 📎 Créditos
 
-- Plantilla base: Nombre si se conoce
-- Desarrollo y adaptación: Alary Guzmán
+- **Plantilla base**: [Dominic – Free Bootstrap 4 HTML5 Portfolio Website Template](https://themewagon.com/themes/free-bootstrap-4-html5-portfolio-website-template-dominic/)
+- **Desarrollo y adaptación**: Alary Guzmán
