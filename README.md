@@ -27,13 +27,13 @@ Este proyecto es un portafolio web personal desarrollado con HTML, CSS y JavaScr
 
 ## Capturas de Pantalla
 
-| Página Principal | Portafolio | Contacto |
+| Página Principal | Sombre Mí | Servicios |
 |------------------|------------|----------|
-| ![home](capturas/home.png) | ![portafolio](capturas/portafolio.png) | ![contacto](capturas/contacto.png) |
+| ![home](capturas/home.png) | ![portafolio](capturas/sobremi.png) | ![contacto](capturas/servicios.png) |
 
-| Página Principal | Portafolio | Contacto |
+| Portafolio | Blog | Contacto |
 |------------------|------------|----------|
-| ![home](capturas/home.png) | ![portafolio](capturas/portafolio.png) | ![contacto](capturas/contacto.png) |
+| ![home](capturas/portafolio.png) | ![portafolio](capturas/blog.png) | ![contacto](capturas/contacto.png) |
 
 ---
 
