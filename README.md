@@ -24,7 +24,7 @@ Este proyecto es un portafolio web personal desarrollado con HTML, CSS y JavaScr
 
 ---
 
-## 📷 Capturas de Pantalla
+## Capturas de Pantalla
 
 | Página Principal | Portafolio | Contacto |
 |------------------|------------|----------|
@@ -35,11 +35,11 @@ Este proyecto es un portafolio web personal desarrollado con HTML, CSS y JavaScr
 ##  GitHub Pages
 
 Puedes ver el sitio publicado aquí:  
-➡ [https://alaryguzman.github.io/Portafolio/](https://alaryguzman.github.io/Portafolio/)
+ [https://alaryguzman.github.io/Portafolio/](https://alaryguzman.github.io/Portafolio/)
 
 ---
 
-## 📎 Créditos
+## Créditos
 
 - **Plantilla base**: [Dominic – Free Bootstrap 4 HTML5 Portfolio Website Template](https://themewagon.com/themes/free-bootstrap-4-html5-portfolio-website-template-dominic/)
 - **Desarrollo y adaptación**: Alary Guzmán
