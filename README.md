@@ -9,6 +9,7 @@ Este proyecto es un portafolio web personal desarrollado con HTML, CSS y JavaScr
 
 - **Inicio**: Presentación principal con imagen destacada.
 - **Sobre mí**: Sección con información personal.
+- **Servicios**: Lista de servicios ofrecidos, acompañados de íconos y descripciones
 - **Portafolio**: Galería de trabajos con efecto hover y visualización con prettyPhoto.
 - **Blog**: Muestra de entradas o noticias recientes.
 - **Contacto**: Formulario para enviar mensajes por correo.
@@ -25,6 +26,10 @@ Este proyecto es un portafolio web personal desarrollado con HTML, CSS y JavaScr
 ---
 
 ## Capturas de Pantalla
+
+| Página Principal | Portafolio | Contacto |
+|------------------|------------|----------|
+| ![home](capturas/home.png) | ![portafolio](capturas/portafolio.png) | ![contacto](capturas/contacto.png) |
 
 | Página Principal | Portafolio | Contacto |
 |------------------|------------|----------|
